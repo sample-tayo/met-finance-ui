@@ -31,6 +31,16 @@ export default function App() {
           goodbye to bank queues and disapppointments."
         imageSrc="./images/exchange.png"
       />
+      {/* <img
+        style={{
+          margin: " auto",
+          maxWidth: "20%",
+          height: "auto",
+        }}
+        src="./images/products-3.png"
+        alt="atm"
+      /> */}
+
       <Exchange
         h3="Receive or request money"
         message="Send money requests or share a payment link for your friends and even customers to pay via bank transfers, card or even mobile money."

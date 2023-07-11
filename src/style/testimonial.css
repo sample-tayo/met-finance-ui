@@ -33,10 +33,10 @@
 }
 
 .slick-dots li.slick-active button:before {
-  color: lightcoral !important;
+  color: #423d3d !important;
 }
 .slick-dots li button:before {
-  color: lightcyan !important;
+  color: ##93a7b6 !important;
   font-size: 1rem;
   top: 2rem;
 }
@@ -55,6 +55,7 @@
 
 .testiomonial-name p {
   margin: 0;
+  margin-left: 1.5rem;
 }
 .slick-next {
   right: 50px !important;

@@ -52,7 +52,9 @@ export default function App() {
       <Exchange
         h3="Support available on all platform"
         message="Our simolified messaging brings all your chats together from IG, Whatsapp, Facebook, website and email. So you can easily view and reply on the go."
-        imageSrc="./images/exchange.png"
+        receiveOrRewuestStyle={receiveOrRewuestStyle}
+        exchaingeImg={exchaingeImg}
+        imageSrc="./images/social.png"
       />
 
       <Testimonial />
